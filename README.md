@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+I'm Kiwi Xu, a self-motivated tech enthusiast and full stack developer.
+</p>
+
 <!--
 **OberyJuccy/OberyJuccy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
